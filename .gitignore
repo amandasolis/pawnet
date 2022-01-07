@@ -1,0 +1,18 @@
+# emacs
+*~
+
+# compiled
+*.pyc
+
+# IntelliJ
+.idea
+*.iml
+
+# notebook
+notebook/.ipynb_checkpoints
+
+# mac
+.DS_Store
+
+
+*.ckpt
